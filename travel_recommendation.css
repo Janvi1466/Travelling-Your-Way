@@ -1,0 +1,75 @@
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/004/929/357/original/travel-around-the-world-tourism-design-travel-the-world-text-famous-tourism-landmarks-and-world-attractions-elements-for-holiday-vacation-trip-illustration-vector.jpg);
+    margin: 10px;
+    padding: 10px;
+    background-size: cover;
+    background-color: #ccc;
+}
+
+ul{
+    list-style-type: none;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+}
+
+h1 p{
+    float: left;
+    margin:auto;
+    padding: auto;
+}
+
+.search-container {
+            max-width: 400px;
+            margin: auto;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            text-align: right;
+        }
+
+        input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        .button-group {
+            display: flex;
+            gap: 10px;
+            text-align: right;
+        }
+
+        button {
+            flex: 1;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        .search-btn {
+            background-color: #007bff;
+            color: white;
+        }
+
+        .reset-btn {
+            background-color: #dc3545;
+            color: white;
+        }
+
+        button:hover {
+            opacity: 0.9;
+        }
