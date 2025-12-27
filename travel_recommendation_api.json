@@ -6,12 +6,12 @@
         "cities": [
           {
             "name": "Sydney, Australia",
-            "imageUrl": "sydney.jpg",
+            "imageUrl": "https://tse2.mm.bing.net/th/id/OIF.LYUBNVmB9eDnHv8btUmiXQ?pid=Api&P=0&h=180.jpg",
             "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
           },
           {
             "name": "Melbourne, Australia",
-            "imageUrl": "melbourne.jpg",
+            "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.WzhaYpPR3xf3FweANMGKcgHaE8?pid=Api&P=0&h=180.jpg",
             "description": "A cultural hub famous for its art, food, and diverse neighborhoods."
           }
         ]
@@ -22,12 +22,12 @@
         "cities": [
           {
             "name": "Tokyo, Japan",
-            "imageUrl": "tokyo.jpeg",
+            "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.8XYgtB4N3qg-n980uXNoQAHaE8?pid=Api&P=0&h=180.jpg",
             "description": "A bustling metropolis blending tradition and modernity, famous for its cherry blossoms and rich culture."
           },
           {
             "name": "Kyoto, Japan",
-            "imageUrl": "kyoto.jpeg",
+            "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.KoBDt5g8MCfOToCbRtA8BwHaE8?pid=Api&P=0&h=180.jpg",
             "description": "Known for its historic temples, gardens, and traditional tea houses."
           }
         ]
@@ -38,12 +38,12 @@
         "cities": [
           {
             "name": "Rio de Janeiro, Brazil",
-            "imageUrl": "enter_your_image_for_rio.jpg",
+            "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.c9MlUxUJT2ibuRzcIBqKLAHaE5?pid=Api&P=0&h=180.jpg",
             "description": "A lively city known for its stunning beaches, vibrant carnival celebrations, and iconic landmarks."
           },
           {
             "name": "São Paulo, Brazil",
-            "imageUrl": "enter_your_image_for_sao-paulo.jpg",
+            "imageUrl": "https://tse4.mm.bing.net/th/id/OIP._cn72faBvhwu9QJgBdlWsgHaE7?pid=Api&P=0&h=180.jpg",
             "description": "The financial hub with diverse culture, arts, and a vibrant nightlife."
           }
         ]
@@ -53,13 +53,13 @@
       {
         "id": 1,
         "name": "Angkor Wat, Cambodia",
-        "imageUrl": "enter_your_image_for_angkor-wat.jpg",
+        "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.W5xgAOjYVaKKqO2Xep692QHaEo?pid=Api&P=0&h=180.jpg",
         "description": "A UNESCO World Heritage site and the largest religious monument in the world."
       },
       {
         "id": 2,
         "name": "Taj Mahal, India",
-        "imageUrl": "enter_your_image_for_taj-mahal.jpg",
+        "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.0hGoAA6sal9WslbUfN8YrQHaE7?pid=Api&P=0&h=180.jpg",
         "description": "An iconic symbol of love and a masterpiece of Mughal architecture."
       }
     ],
@@ -67,13 +67,13 @@
       {
         "id": 1,
         "name": "Bora Bora, French Polynesia",
-        "imageUrl": "enter_your_image_for_bora-bora.jpg",
+        "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.vvj-gkzbBZAfywkrNfKQ1AHaE8?pid=Api&P=0&h=180.jpg",
         "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
       },
       {
         "id": 2,
         "name": "Copacabana Beach, Brazil",
-        "imageUrl": "enter_your_image_for_copacabana.jpg",
+        "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.c-Nw2QESaPYuY3EaYIoUUAHaE8?pid=Api&P=0&h=180.jpg",
         "description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views."
       }
     ]
